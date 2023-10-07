@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-Venice Beach Live Camera · Los Angeles Live
+https://tinyurl.com/4y9kwbex
+#EXTINF:-Tini Martini Bar St. Augustine FL
+https://tinyurl.com/3rsj344d
+#EXTINF:-The Hat Bar: St. Petersburg
+https://tinyurl.com/yt3fwxp4
+#EXTINF:-Elbo Room Band 	
+https://tinyurl.com/yu7zmm4b
+#EXTINF:-Church Street Market PlaceChurch Street Market Place
+https://tinyurl.com/3f7tfs9b
+#EXTINF:-Sloppy Joe's Live Bar Cam | Sloppy Joe's Bar
+https://use01-smr03-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0.sm1.av2.mt1.at0.as1.sh2.rt2733.rc0.smil/chunklist_w965327577_b3096000.m3u8
+#EXTINF:-Erasmusbrug, Kop van Zuid, Cruise Terminal Rotterdam
+https://tinyurl.com/5n6e7adk
+#EXTINF:- Thailand
+https://tinyurl.com/4h9tjnx5
+#EXTINF:-CITY PHILIPPINES 
+https://tinyurl.com/bdf6u5p3
+#EXTINF:-AGDAO PUBLIC MARKET DAVAO CITY PHILIPPINES
+https://tinyurl.com/mp4t46sm
+#EXTINF:-Thailand
+https://tinyurl.com/377wjh3e
+
